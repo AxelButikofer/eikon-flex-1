@@ -37,5 +37,10 @@
   display: flex;
   flex-wrap: wrap-reverse
 }
-/* 8. all-in */
 
+/* 8. all-in */
+.exercice-all-in .container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  flex-direction: row-reverse
+}
